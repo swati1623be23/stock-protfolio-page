@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const BACKEND_URL = 'https://stock-protfolio-page.onrender.com'
+const BACKEND_URL = 'https://stock-protfolio-page.onrender.com/api'
 const API_KEY = 'd7btqlhr01quh9fboj00d7btqlhr01quh9fboj0g'
 const BASE_URL = 'https://finnhub.io/api/v1'
 
